@@ -1,0 +1,5 @@
+{
+  "name": "Cockpit: Mission Control",
+  "description": "A futuristic dashboard featuring offline-first architecture, system monitoring, and AI-assisted diagnostics. Handles network connectivity states gracefully with simulated caching mechanisms.",
+  "requestFramePermissions": []
+}
